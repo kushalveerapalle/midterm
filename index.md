@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Kushal Verapalle
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    I Design and Build some web stuff. Just Scroll to know more about me.
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,149 +13,86 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: About Me
+    text: I Don't like to define myself by the work i've done. I define myself by the work  I want to do. Skills can be thaught, Personality is inherent. I prefer to keep Learning, continue challenging myself, and do interesting things that matter. 
     actions:
       - title: Get Started!
-        url: '#page-top'
+        url: '#services'
         class: btn-light
 
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: My Skills
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: HTML
+        text:
+        icon: fa-code text-info
+        
+      - title: JAVA SCRIPT
+        text: 
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
-
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
-
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
-    members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
-
+      - title: ANGULAR
+        text: 
+        icon: fa-laptop-code text-info
+      - title: NODE.js
+        text: 
+        icon: fa-keyboard
+      - title: UI DESIGN
+        text: 
+        icon: fa-gem text-info
+      - title: PHOTOSHOP
+        text: 
+        icon: fa-photo-video
+      - title: AZURE
+        text: 
+        icon: fa-server text-info
+      - title: MYSQL
+        text: 
+        icon: fa-database
+     
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: Career Highlights !
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          2014-2018
+          
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          I Have Completed My Under Graduation In Computer Science at KLUniversity With 3.6 GPA.
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          2018-2020
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          I Worked As Full Stack Developer For TCS.
+      - image: assets/img/portfolio/thumbnails/1.jpg
+        title: >+
+          2021-2022
+          
+        text: >-
+          Right Now I am Studying My Masters in Computer Science at Rowan University.
 
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      To Know Me Better Just Call Me Or Send An Email And I Will Get Back To You
     actions:
-    - title: +1 (202) 555-014
+    - title: +1 (856) 803-953
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
+      url: mailto:virukushal@gmail.com
+    - title: Linkedin
+      icon: fa-linkedin
       icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
+      url: 'https://www.linkedin.com/in/kushal-viru-098366163/'
+    - title: Github
+      icon: fa-github
       icon_type: fab
-      url: '#'
-
+      url: 'https://github.com/kushalveerapalle'
+    
 ---
